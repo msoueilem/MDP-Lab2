@@ -1,0 +1,2 @@
+The Demo File RetrofitUser is designed with GridView(Optional), So the updated example using RecyclerView is sent it to your email.
+ The compressed file is RetrofitRecyclerView from Lesson-8-Demo Code folder
